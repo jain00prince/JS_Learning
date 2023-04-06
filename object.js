@@ -1,0 +1,10 @@
+const arr = [1, 2, 3];
+console.log(arr);
+console.log("--------------------");
+console.log(typeof arr);
+arr["Fname"] = "Prince";
+arr.Lname = "jain";
+console.log("--------------------");
+console.log(arr);
+console.log("--------------------");
+console.log(typeof arr);
